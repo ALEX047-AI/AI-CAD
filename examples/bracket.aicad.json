@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "kind": "bracket",
+  "units": "mm",
+  "parameters": {
+    "horizontal_length": 80,
+    "vertical_height": 50,
+    "width": 30,
+    "thickness": 5
+  }
+}

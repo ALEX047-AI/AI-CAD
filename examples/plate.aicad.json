@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "plate",
+  "units": "mm",
+  "parameters": {
+    "length": 100,
+    "width": 60,
+    "thickness": 5,
+    "hole_diameter": 6,
+    "hole_count": 4,
+    "edge_offset": 10
+  }
+}

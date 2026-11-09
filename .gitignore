@@ -1,5 +1,23 @@
-# Object file
-*.o
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+.env
+*.step
+*.stl
+*.exe
+build/
+dist/
+*.spec
 
-# Ada Library Information
-*.ali
+# Local credentials and development artifacts
+.env.*
+!.env.example
+*.pem
+*.p12
+*.pfx
+*.key
+*.log
+demo_output/
+.coverage
+htmlcov/
